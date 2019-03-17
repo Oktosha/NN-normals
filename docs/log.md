@@ -15,3 +15,6 @@ I hope such a log helps me next time :)
 2. Clonning the repo via ssh is the easiest way to configure repo to use ssh key
 
 
+### ***
+
+[Working with workspaces Ubuntu 18](https://help.ubuntu.com/stable/ubuntu-help/shell-windows.html.en)
