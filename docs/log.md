@@ -18,3 +18,14 @@ I hope such a log helps me next time :)
 ### ***
 
 [Working with workspaces Ubuntu 18](https://help.ubuntu.com/stable/ubuntu-help/shell-windows.html.en)
+
+
+### ***
+[Conda cheat sheet](https://conda.io/projects/conda/en/latest/user-guide/cheatsheet.html)
+
+```
+$ conda create --name nn-norm
+$ conda activate nn-norm
+```
+
+I had also to run `conda init zsh` ._.
