@@ -56,3 +56,6 @@ ResolvePackageNotFound:
 
 ```
 
+### ***
+
+You need to set the `EDITOR` env variable to make vim the editor for git.
