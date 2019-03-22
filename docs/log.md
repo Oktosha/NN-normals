@@ -59,3 +59,7 @@ ResolvePackageNotFound:
 ### ***
 
 You need to set the `EDITOR` env variable to make vim the editor for git.
+
+[tabs in kitty](https://sw.kovidgoyal.net/kitty/#id8)
+
+[undo in git](https://docs.gitlab.com/ee/topics/git/numerous_undo_possibilities_in_git/)
